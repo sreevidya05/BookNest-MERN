@@ -213,7 +213,16 @@ User Reviews: Enable users to rate and review books.
 Push Notifications: Send notifications for order updates and new book releases. 
 
 Contributors
-Gobburi Sreevidya - Project Manager 
+Gobburi Sreevidya – Project Lead & Full-Stack Developer 
 G Upendra Chowdary - Frontend Developer 
 Chimala Dinesh - Backend Developer 
 
+
+## My Contributions
+As the Project Lead, I was responsible for:
+- Planning and managing project execution
+- Defining system requirements and application workflows
+- Coordinating frontend and backend module integration
+- Participating in testing, debugging, and quality assurance
+- Preparing project documentation, presentations, and demonstrations
+- Ensuring timely completion of project milestones
